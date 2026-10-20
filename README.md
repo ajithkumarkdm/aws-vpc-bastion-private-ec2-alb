@@ -147,7 +147,7 @@ Planned screenshots:
 
 ## Documentation
 
-- [Troubleshooting Guide](docs/troubleshooting.md)
+- [Troubleshooting Guide](Docs/Troubleshooting.md)
 
 
 ## Author
