@@ -144,9 +144,11 @@ Planned screenshots:
 8. Final webpage through the ALB
 9. Troubleshooting evidence
 
-## Cleanup and Cost Management
 
-NAT Gateways and Application Load Balancers can incur ongoing charges. Delete billable resources when they are no longer required, and verify that the remaining resources are not generating unexpected costs.
+## Documentation
+
+- [Troubleshooting Guide](docs/troubleshooting.md)
+
 
 ## Author
 
