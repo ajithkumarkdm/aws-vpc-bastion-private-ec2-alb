@@ -104,9 +104,33 @@ The public subnets were configured in separate Availability Zones. The private w
 - HTTP connectivity testing with `curl`
 - Troubleshooting network timeouts and HTTP 504 errors
 
-## Screenshots
 
-Project screenshots will be added to the `screenshots/` directory.
+## Project Screenshots
+
+### 1. VPC Overview
+![VPC Overview](screenshots/01%20%E2%80%94%20VPC%20overview.png)
+
+### 2. Subnets and Availability Zones
+![Subnets](screenshots/02%20%E2%80%94%20Subnets%20and%20Availability%20Zones.png)
+
+### 3. Route Tables
+![Route Tables](screenshots/03%20%E2%80%94%20Route%20tables.png)
+
+### 4. EC2 Instances
+![EC2 Instances](screenshots/04%20%E2%80%94%20EC2%20instances.png)
+
+### 5. Target Group Health
+![Target Group Health](screenshots/05%20%E2%80%94%20Target%20group%20health.png)
+
+### 6. Application Load Balancer
+![Application Load Balancer](screenshots/06%20%E2%80%94%20Application%20Load%20Balancer.png)
+
+### 7. Nginx HTTP 200 Validation
+![Nginx HTTP 200](screenshots/07%20%E2%80%94%20Nginx%20and%20HTTP%20200%20test.png)
+
+### 8. Final Webpage
+![Final Webpage](screenshots/08%20%E2%80%94%20Final%20webpage.png)
+
 
 Planned screenshots:
 
@@ -126,6 +150,8 @@ NAT Gateways and Application Load Balancers can incur ongoing charges. Delete bi
 
 ## Author
 
-AWS | Linux | Networking | Cloud Support | DevOps Learning
+**Cloud Support | AWS | Linux | Networking | DevOps**
 
-This project was built as a practical learning exercise to strengthen AWS networking and cloud troubleshooting skills.
+This project was completed as a hands-on learning exercise to strengthen practical skills in AWS networking, EC2 administration, security groups, load balancing, and cloud troubleshooting.
+
+GitHub: https://github.com/ajithkumarkdm
